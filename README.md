@@ -1,4 +1,6 @@
-###TIC-TAC-TOE IN  REACT
+###TIC-TAC-TOE WITH SOUND IN  REACT
+
+
 <img width="385" alt="draw" src="https://github.com/user-attachments/assets/13d854ea-b450-4ae3-9435-1da5a7f89e4d">
 <img width="362" alt="wins" src="https://github.com/user-attachments/assets/ca396f92-a12e-4e30-82a9-33b8628bd10a">
 
