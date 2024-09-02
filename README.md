@@ -1,3 +1,7 @@
+###TIC-TAC-TOE IN  REACT
+<img width="385" alt="draw" src="https://github.com/user-attachments/assets/13d854ea-b450-4ae3-9435-1da5a7f89e4d">
+<img width="362" alt="wins" src="https://github.com/user-attachments/assets/ca396f92-a12e-4e30-82a9-33b8628bd10a">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
